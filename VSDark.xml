@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <!--//
 
-Style name:  VS2012 Dark Theme for Notepad++
-Author:      Sean D. Cline (Sean.D.Cline@gmail.com)
-Description: A close replica of the Visual Studio 2012 "Dark" theme in Notepad++.
+Style name:  Visual Studio Dark Theme for Notepad++
+Author:      Sean D. Cline (sean@sdcline.com)
+Description: A close replica of the Visual Studio's dark theme in Notepad++.
 Languages:   C, C++, C#, Java, XML, but should work with many others.
-Note:        I don't claim any ownership of this theme. It is merely a replica of another.
+Note:        I don't claim any ownership of this theme. It's just a clone.
 
 //-->
 <NotepadPlus modelFileLastModifiedDate="20260325" modelDate="20251223">
