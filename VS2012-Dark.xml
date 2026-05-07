@@ -632,7 +632,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="LABEL" styleID="13" fgColor="569CD6" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CONTINUATION" styleID="14" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
-        <LexerType name="lisp" desc="LISP" ext="">
+        <LexerType name="lisp" desc="LISP" ext="kicad_sch kicad_pcb kicad_sym kicad_mod">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENTLINE" styleID="1" fgColor="608B4E" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="2" fgColor="B5CEA8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
@@ -1346,7 +1346,7 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
             <WordsStyle name="USER KEYWORDS 7" styleID="134" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7" />
             <WordsStyle name="USER KEYWORDS 8" styleID="135" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8" />
         </LexerType>
-        <LexerType name="json" desc="JSON" ext="">
+        <LexerType name="json" desc="JSON" ext="kicad_prl kicad_pro">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="NUMBER" styleID="1" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="2" fgColor="C8C8C8" bgColor="1E1E1E" fontName="" fontStyle="0" fontSize="" />
